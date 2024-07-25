@@ -1,3 +1,5 @@
+(Forked from [react-native-before-after-slider-v2](https://github.com/vmaryada/react-native-before-after-slider-v2) and added RTL support)
+
 # Before-After comparison slider for react-native with hooks and functional components
 
 
