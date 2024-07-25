@@ -1,14 +1,14 @@
 {
-  "name": "react-native-before-after-slider-v2",
+  "name": "react-native-before-after-slider-v2-rtl-support",
   "version": "1.0.1",
-  "description": "React Native before after slider with hooks and functional components",
+  "description": "React Native before after slider with hooks and functional components with RTL support",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vmaryada/react-native-before-after-slider-v2.git"
+    "url": "git+https://github.com/DoguD/react-native-before-after-slider-v2.git"
   },
   "keywords": [
     "react",
@@ -18,10 +18,10 @@
     "slider",
     "image"
   ],
-  "author": "Vineeth Reddy Maryada",
+  "author": "Dogu Deniz Ugur (forked from Vineeth Reddy Maryada)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vmaryada/react-native-before-after-slider-v2/issues"
+    "url": "https://github.com/dogud/react-native-before-after-slider-v2/issues"
   },
-  "homepage": "https://github.com/vmaryada/react-native-before-after-slider-v2#readme"
+  "homepage": "https://github.com/dogud/react-native-before-after-slider-v2#readme"
 }
