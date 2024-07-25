@@ -1,5 +1,5 @@
-import React, { Component, useState, useEffect } from 'react';
-import { StyleSheet, View, Text, PanResponder, Dimensions, Image } from 'react-native';
+import React, { useState, useEffect } from 'react';
+import { View, PanResponder, Dimensions, Image, I18nManager } from 'react-native';
 
 const deviceWidth = Dimensions.get("window").width;
 const deviceHeight = Dimensions.get("window").height;
