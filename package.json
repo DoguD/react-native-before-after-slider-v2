@@ -1,6 +1,6 @@
 {
   "name": "react-native-before-after-slider-v2-rtl-support",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "React Native before after slider with hooks and functional components with RTL support",
   "main": "index.js",
   "scripts": {
